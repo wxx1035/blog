@@ -8,13 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://wxx1035.github.io/blog
-root: /blog
+url: https://blog.xinxiao.wang/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: A4
+theme: a4
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
